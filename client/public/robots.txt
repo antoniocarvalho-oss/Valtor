@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /clube/
+Disallow: /perfil
+Disallow: /importar
+Disallow: /admin
+
+Sitemap: https://www.valtor.com.br/sitemap_index.xml
+Sitemap: https://www.valtor.com.br/sitemap.xml

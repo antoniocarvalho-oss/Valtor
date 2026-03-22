@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-paginas.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-loterias.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-estatisticas.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-ferramentas.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-seo.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-concursos.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.valtor.com.br/sitemap-blog.xml</loc>
+    <lastmod>2026-03-21</lastmod>
+  </sitemap>
+</sitemapindex>
