@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `apiToken` varchar(64);
